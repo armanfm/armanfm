@@ -1,3 +1,4 @@
+![video](https://github.com/user-attachments/assets/f3e8c793-30c3-4859-af2a-b3725fab730d)
 
 
 
@@ -27,31 +28,6 @@ contract Arman {
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
----
-
-### 📊  GitHub Stats
-
-
-
-
-  ![video](https://github.com/user-attachments/assets/a67988be-c16b-41a5-b7d3-a8f6d0728a5c)
-
-   
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
 
 
 ---
