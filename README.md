@@ -11,8 +11,7 @@
 ###                       👾 Armando Freire — Web3 Developer
 
 
-
-          Building zk-Rollups · Semantic AI · Sovereign Systems · Pernambuco, BR
+ Building zk-Rollups · Semantic AI · Sovereign Systems · Pernambuco, BR
 
 
 
