@@ -27,29 +27,6 @@ contract Arman {
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
----
-
-### 📊  GitHub Stats
-
-
-
-
-  
-   
-  
-
-
-
-
-
-
-
-  
-
-
-
-
-
 
 ---
 
