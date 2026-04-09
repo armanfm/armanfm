@@ -49,15 +49,7 @@ contract Arman {
 
 
 
----
 
-### 🚀  Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🔐 [nome-do-projeto](https://github.com/armanfm) | Breve descrição aqui | Solidity, React |
-| 💰 [nome-do-projeto](https://github.com/armanfm) | Breve descrição aqui | Hardhat, Web3.js |
-| 🌐 [nome-do-projeto](https://github.com/armanfm) | Breve descrição aqui | IPFS, Ethers.js |
 
 ---
 
