@@ -27,6 +27,30 @@ contract Arman {
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
+---
+
+### 📊  GitHub Stats
+
+
+
+
+  
+   
+  <img width="1280" height="720" alt="1766443926810" src="https://github.com/user-attachments/assets/a82550cd-6734-4059-8cfc-b13ee95cc41e" />
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
 
 ---
 
@@ -35,5 +59,6 @@ contract Arman {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/SEU_USUARIO)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+
 
 
