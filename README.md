@@ -8,10 +8,7 @@
 
 
 
-
 👾 Armando Freire — Web3 Developer
-
-
 
 
 
